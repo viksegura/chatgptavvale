@@ -7,7 +7,7 @@ import remarkGfm from 'remark-gfm'
 import rehypeRaw from "rehype-raw"; 
 
 import styles from "./Chat.module.css";
-import Azure from "../../assets/avvale-logo-ver-col-pos.jpg";
+import Azure from "../../assets/Azure-30d5e7c0.svg";
 
 import {
     ChatMessage,
