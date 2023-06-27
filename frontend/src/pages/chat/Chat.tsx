@@ -163,7 +163,7 @@ const Chat = () => {
                                     className={styles.chatIcon}
                                     aria-hidden="true"
                                 />
-                                <h1 className={styles.chatEmptyStateTitle}>Start mining your data</h1>
+                                <h1 className={styles.chatEmptyStateTitle}>Start mining your dataset</h1>
                                 <h2 className={styles.chatEmptyStateSubtitle}>This chatbot is configured to answer your questions about the European Union Horizon Program (2023-2024) </h2>
                             </Stack>
                         ) : (
