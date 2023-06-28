@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AIObsChat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB800CF777AD4E249F3B632C80D2BBD5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCD880F4DFD741A3A84D81561389B062 }}
